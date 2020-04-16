@@ -13,7 +13,7 @@ Technologies: Ruby, Rails, HTML, CSS, Javascript, Python, Java
 
 1. Successfully completed project work on “Home Automation using AI”(May 2018)
     * Technologies used: Alexa skill kit, alexa voice service, alexa device, python.
-    * Using a microphone connected to the Raspberry Pi we sent web request to the alexa voice service, 
+    * Using an alexa device we sent web request to the alexa voice service, 
     where we had a skill registered. The using response from amazon, we processed it to toggle switchs on and off.
 
 

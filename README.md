@@ -8,7 +8,7 @@ Phone: +91 9008401895
 
 ## Profile Summary / Projects
 
-Technologies: Ruby, Rails, HTML, CSS, Javascript, Python, Java
+Technologies: Ruby, Rails, HTML, CSS, Javascript, Python, Java, REST, JSON
 
 
 1. Successfully completed project work on “Home Automation using AI”(May 2018)

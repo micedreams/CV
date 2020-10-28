@@ -8,7 +8,7 @@ Phone: +91 9008401895
 
 ## Profile Summary / Projects
 
-Technologies: Elixir, Phoenix, Flutter, Dart, Ruby, Rails, HTML, CSS, Javascript, REST, JSON
+Technologies: Elixir, Phoenix, Flutter, Dart, Ruby, Rails, HTML, CSS, Javascript, REST, JSON, Git(version control).
 
 I am familiar with continious inetgration, design patterns and test driven devlopment.
 

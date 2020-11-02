@@ -27,7 +27,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
     where we had a skill registered. The using response from amazon, we processed it to toggle switchs on and off.
 
 
-1. Successfully completed the Hacktober fest challenge (2019, 2020)
+1. Successfully completed the Hacktober fest challenge (2019)
 
 
 ## ACADEMIC QUALIFICATION 

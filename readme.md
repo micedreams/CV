@@ -30,7 +30,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
 1. Successfully completed the Hacktober fest challenge (2019)
 
 ## Personal Project
-1. https://github.com/micedreams/ok
+1. https://github.com/micedreams/mgttg
 
 
 ## ACADEMIC QUALIFICATION 

@@ -30,7 +30,8 @@ I am familiar with continious inetgration, design patterns and test driven devlo
 1. Successfully completed the Hacktober fest challenge (2019)
 
 ## Personal Projects
-1. [Tictactoe in flutter](https://github.com/micedreams/-tic-tac-toe-)
+1. Tictactoe in flutter: https://github.com/micedreams/-tic-tac-toe-
+1. Simple flutter app that does signup and login using firebase auth: https://github.com/micedreams/auth_app 
 
 ## ACADEMIC QUALIFICATION 
 BE(CSE) , VTU 

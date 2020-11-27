@@ -32,7 +32,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
 1. Simple flutter app that does signup and login using firebase auth: https://github.com/micedreams/auth_app 
 1. Flutter minesweeper: https://github.com/micedreams/minesweeper
 1. Flutter Game of life: https://github.com/micedreams/game_of_life
-1. set up Github actions to autogenerate CV pdf
+1. Set up Github actions to autogenerate CV pdf
 
 ## Academic Qualification
 BE(CSE) , VTU 

@@ -13,7 +13,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Render document
-        uses: micedreams/rmarkdown-action@vmaster
+        uses: micedreams/rmarkdown-action@master
         with:
           input_file: readme.md
           output_format: pdf_document

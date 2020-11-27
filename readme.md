@@ -1,4 +1,4 @@
-## Akshatha Sathish
+# Akshatha Sathish
 
 Email: micedreams@gmail.com
 
@@ -32,6 +32,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
 1. Simple flutter app that does signup and login using firebase auth: https://github.com/micedreams/auth_app 
 1. Flutter minesweeper: https://github.com/micedreams/minesweeper
 1. Flutter Game of life: https://github.com/micedreams/game_of_life
+1. set up gitHub actions to autogenerate CV pdf
 
-## ACADEMIC QUALIFICATION 
+## Academic Qualification
 BE(CSE) , VTU 

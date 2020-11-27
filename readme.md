@@ -1,5 +1,3 @@
-# CV
-
 ## Akshatha Sathish
 
 Email: micedreams@gmail.com

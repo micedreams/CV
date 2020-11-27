@@ -33,6 +33,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
 1. Tictactoe in flutter: https://github.com/micedreams/-tic-tac-toe-
 1. Simple flutter app that does signup and login using firebase auth: https://github.com/micedreams/auth_app 
 1. Flutter minesweeper: https://github.com/micedreams/minesweeper
+1. Flutter Game of life: https://github.com/micedreams/game_of_life
 
 ## ACADEMIC QUALIFICATION 
 BE(CSE) , VTU 

@@ -1,0 +1,37 @@
+<h1 id="cv">CV</h1>
+<h2 id="akshatha-sathish">Akshatha Sathish</h2>
+<p>Email: micedreams@gmail.com</p>
+<p>Phone: +91 9008401895</p>
+<h2 id="profile-summary-projects">Profile Summary / Projects</h2>
+<p>Technologies: Elixir, Phoenix, Flutter, Dart, Ruby, Rails, HTML, CSS, Javascript, REST, JSON, Git(version control).</p>
+<p>I am familiar with continious inetgration, design patterns and test driven devlopment.</p>
+<ol type="1">
+<li>Arkneo finance(May 2020 - Present)
+<ul>
+<li>Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.</li>
+<li>Worked as part of a 2 person engineering team, Reporting directly to the CTO.</li>
+<li>Worked on vertically sliced full stack stories which involved, Phoenix server and Flutter mobile app.</li>
+<li>Worked on authentication flow.</li>
+<li>Worked on intigrating 3rd party APIs,
+<ul>
+<li>Karvy(to get mutual funds portfolio details).</li>
+<li>Digio (which intigrates with DigiLocker to perform KYC).</li>
+<li>Razorpay (to provide loan repayment options).</li>
+</ul></li>
+</ul></li>
+<li>Successfully completed project work on “Home Automation using AI”
+<ul>
+<li>Technologies used: Alexa skill kit, alexa voice service, alexa device, python.</li>
+<li>Using an alexa device we sent web request to the alexa voice service, where we had a skill registered. The using response from amazon, we processed it to toggle switchs on and off.</li>
+</ul></li>
+<li>Successfully completed the Hacktober fest challenge (2019)</li>
+</ol>
+<h2 id="personal-projects">Personal Projects</h2>
+<ol type="1">
+<li>Tictactoe in flutter: https://github.com/micedreams/-tic-tac-toe-</li>
+<li>Simple flutter app that does signup and login using firebase auth: https://github.com/micedreams/auth_app</li>
+<li>Flutter minesweeper: https://github.com/micedreams/minesweeper</li>
+<li>Flutter Game of life: https://github.com/micedreams/game_of_life</li>
+</ol>
+<h2 id="academic-qualification">ACADEMIC QUALIFICATION</h2>
+<p>BE(CSE) , VTU</p>

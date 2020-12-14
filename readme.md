@@ -9,7 +9,6 @@ Phone: +91 9008401895
 Technologies: Elixir, Phoenix, Flutter, Dart, Ruby, Rails, HTML, CSS, Javascript, REST, JSON, Git(version control).
 
 I am familiar with continious inetgration, design patterns and test driven devlopment.
-1. Intermlabs(December 2020 - Present)
 
 1. Arkneo finance
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.

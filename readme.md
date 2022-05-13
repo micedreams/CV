@@ -10,7 +10,7 @@ Technologies: Flutter, Dart, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript
 
 I am familiar with continious inetgration, design patterns and test driven devlopment.
 
-1. Submitlocal (CostumeSelect)
+1. Submitlocal (CostumeSelect) (November 2021- May 2022)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved, Rails server and Flutter mobile app.
@@ -21,7 +21,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
       * CostumeSelect screen.
       * other miscilanious popups through out the app. 
    * Worked on writing end points for the REST API, freezed models.
-1. IntemLabs (MENTZA)
+1. IntemLabs (MENTZA) (December 2020- October 2021)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved, Rails server and Flutter mobile app.
@@ -33,7 +33,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
       * creating mentza screen(scheduling calls) and parts of the call screen,
       * other miscilanious popups through out the app. 
    * Worked on writing end points for the REST API, freezed models and some widget tests. 
-1. Arkneo finance 
+1. Arkneo finance (May 2020- October 2020)
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on vertically sliced full stack stories which involved, Phoenix server and Flutter mobile app.
@@ -42,13 +42,13 @@ I am familiar with continious inetgration, design patterns and test driven devlo
       * Karvy(to get mutual funds portfolio details). 
       * Digio (which intigrates with DigiLocker to perform KYC).
       * Razorpay (to provide loan repayment options).
-1. Rotten grapes (Servayer)
+1. Rotten grapes (Servayer) (September 2019- May 2020)
    * Technologies used: Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved, Rails server and Rails web app.
    * Worked on creating simple servay screens.
    * Worked on writing tests. 
-1. Successfully completed project work on “Home Automation using AI”
+1. Successfully completed project work on “Home Automation using AI” (May 2019)
    * Technologies used: Alexa skill kit, alexa voice service, alexa device, python.
    * Using an alexa device we sent web request to the alexa voice service, 
    where we had a skill registered. The using response from amazon, we processed it to toggleswitchs on and off.

@@ -6,7 +6,7 @@ Phone: +91 9008401895
 
 ## Profile Summary / Projects
 
-Technologies: Flutter, Dart, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).
+Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).
 
 I am familiar with continious inetgration, design patterns and test driven devlopment.
 
@@ -20,7 +20,8 @@ I am familiar with continious inetgration, design patterns and test driven devlo
       * Add to wardroab screens.
       * CostumeSelect screen.
       * other miscilanious popups through out the app. 
-   * Worked on writing end points for the REST API, freezed models.
+   * Set up Github actions to autogenerate CostumeSelect apk.
+   * Worked on writing end points for the REST API, freezed models, VelocityX.
 1. IntemLabs (MENTZA) (December 2020- October 2021)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3 person engineering team, Reporting directly to the CTO.

@@ -10,6 +10,16 @@ Technologies: Flutter, Dart, Firebase, Ruby, Rails, Kotlin, Elixir, Phoenix, HTM
 
 I am familiar with continious inetgration, design patterns and test driven devlopment.
 
+1. Marketfeed (June 2022- October 2022)
+   * Technologies used:  Dart, Flutter, Firebase.
+   * Worked on front-end stories which involved, Cloud-Firestore and Flutter mobile app.
+   * Worked on refactoring the existing solution architecture from MVVM to BLoc to make it more efficient and functional.
+   * Worked on
+      * seting up Streamchat and adding chat moderation.
+      * adding a weekly servay system. according to designs.
+      * adding a delete account button and connected the api end point to it.
+      * other miscilanious UI changes through out the app. 
+
 1. Submitlocal (CostumeSelect) (November 2021- May 2022)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.

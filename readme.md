@@ -16,7 +16,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
    * Worked on refactoring the existing solution architecture from MVVM to BLoc to make it more efficient and functional.
    * Worked on
       * seting up Streamchat and adding chat moderation.
-      * adding a weekly servay system. according to designs.
+      * adding a weekly servay system, according to designs.
       * adding a delete account button and connected the api end point to it.
       * other miscilanious UI changes through out the app. 
 

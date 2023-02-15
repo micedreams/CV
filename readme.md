@@ -20,7 +20,7 @@ I am familiar with continious inetgration, design patterns and test driven devlo
       * adding a delete account button and connected the api end point to it.
       * other miscilanious UI changes through out the app. 
 
-1. Submitlocal (CostumeSelect) (November 2021- May 2022)
+1. CodeSplash (CostumeSelect) (November 2021- May 2022)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved, Rails server and Flutter mobile app.

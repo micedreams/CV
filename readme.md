@@ -67,10 +67,6 @@ I am familiar with continious inetgration, design patterns and test driven devlo
 1. Flutter Game of life: https://github.com/micedreams/game_of_life
 1. Set up Github actions to autogenerate CV pdf: https://github.com/micedreams/CV
 1. Flutter voice to text dictionary: https://github.com/micedreams/search_search
-1. Successfully completed project work on “Home Automation using AI”
-   * Technologies used: Alexa skill kit, alexa voice service, alexa device, python.
-   * Using an alexa device we sent web request to the alexa voice service, 
-   where we had a skill registered. The using response from amazon, we processed it to toggleswitchs on and off.
 
 ## Academic Qualification
 BE(CSE) , VTU 

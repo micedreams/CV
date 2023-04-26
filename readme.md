@@ -35,7 +35,7 @@ I am familiar with continious inetgration, writing end points for the REST API, 
 1. IntemLabs (MENTZA) (December 2020- October 2021)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3 person engineering team, Reporting directly to the CTO.
-   * Worked on front-end stories which involved creating, 
+   * Worked on front-end stories which involved creating and refactoring multiple screens like, 
       * profile screens(view and edit profile screens)
       * parts of onboarding flow,
       * home screen, 

@@ -9,28 +9,6 @@ Phone: +91 9008401895
 Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).
 
 I am familiar with continious inetgration, writing end points for the REST API, design patterns and test driven devlopment.
-
-1. Marketfeed (June 2022- October 2022)
-   * Technologies used:  Dart, Flutter, Firebase.
-   * Worked on front-end stories which involved, Cloud-Firestore and Flutter mobile app.
-   * Worked on refactoring the existing solution architecture from MVVM to BLoc to make it more efficient and functional.
-   * Worked on
-      * seting up Streamchat and adding chat moderation.
-      * adding a weekly servay system, according to designs.
-      * creating a delete account button in the app.
-      * other miscilanious UI changes through out the app. 
-
-1. CodeSplash (CostumeSelect) (November 2021- May 2022)
-   * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
-   * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
-   * Worked on front-end stories which involved creating, 
-      * profile screen.
-      * home screen.
-      * Add to wardroab screens.
-      * CostumeSelect screen.
-      * other miscilanious popups through out the app. 
-   * Set up Github actions to autogenerate CostumeSelect apk.
-   * Worked on writing end points for the REST API, freezed models, VelocityX.
    
 1. IntemLabs (MENTZA) (December 2020- October 2021)
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.

@@ -30,12 +30,6 @@ I am familiar with continious inetgration, writing end points for the REST API, 
       * Karvy(to get mutual funds portfolio details). 
       * Digio (which intigrates with DigiLocker to perform KYC).
       * Razorpay (to provide loan repayment options).
-      
-1. Rotten grapes (Servayer) (September 2019- May 2020)
-   * Technologies used: Ruby, Rails, HTML, CSS, Javascript.
-   * Worked as part of a 3 person engineering team, Reporting directly to the CTO.
-   * Worked on front-end stories which involved, Rails server and Rails web app.
-   * Worked on creating simple servay screen and writing tests. 
 
 ## Personal Projects
 1. Tictactoe in flutter:https://github.com/micedreams/tic-tac-toe

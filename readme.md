@@ -4,6 +4,8 @@ Email: micedreams@gmail.com
 
 Phone: +91 9008401895
 
+Github: github.com/micedreams
+
 ## Profile Summary / Projects
 
 Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).

@@ -13,6 +13,7 @@ Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, 
 I am familiar with continious inetgration, writing end points for the REST API, design patterns and test driven devlopment.
 
 1. Marketfeed (June 2022- October 2022)
+   * This is a fin-tech companey that helped users get educated about stocks, investment and how to increase personal wealth.
    * Technologies used:  Dart, Flutter, Firebase.
    * Worked on front-end stories which involved, Cloud-Firestore and Flutter mobile app.
    * Worked on refactoring the existing solution architecture from MVVM to BLoc to make it more efficient and functional.
@@ -23,6 +24,7 @@ I am familiar with continious inetgration, writing end points for the REST API, 
       * other miscilanious UI changes through out the app. 
 
 1. CodeSplash (CostumeSelect) (November 2021- May 2022)
+   * A capsule wardroab helpe app.
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved creating, 
@@ -35,6 +37,7 @@ I am familiar with continious inetgration, writing end points for the REST API, 
    * Worked on writing end points for the REST API, freezed models, VelocityX.
    
 1. IntemLabs (MENTZA) (December 2020- October 2021)
+   * This is a Social meadia app which allowed users to go into an audio room and book mark special moments.
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved creating and refactoring multiple screens like, 
@@ -47,6 +50,7 @@ I am familiar with continious inetgration, writing end points for the REST API, 
    * Worked on writing end points for the REST API, freezed models and some widget tests. 
    
 1. Arkneo finance (May 2020- October 2020)
+   * This is a fin-tech companey that helped users get loan against mutual funds.
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on vertically sliced full stack stories which involved, Phoenix server and Flutter mobile app.
@@ -56,6 +60,8 @@ I am familiar with continious inetgration, writing end points for the REST API, 
       * Razorpay (to provide loan repayment options).
       
 1. Rotten grapes (Servayer) (September 2019- May 2020)
+   * Here they built apps acording to clients needs.
+   * I help build a servay system.
    * Technologies used: Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved, Rails server and Rails web app.

@@ -14,7 +14,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
 
 1. Marketfeed (June 2022- October 2022)
 
-   This is a fin-tech company that helps users get educated about stocks, investments, and how to increase personal wealth.
+   This fin-tech company helps users learn about stocks, investments, and how to increase personal wealth.
    * Technologies used:  Dart, Flutter, Firebase.
    * Worked on front-end stories that involved, Cloud-Firestore and Flutter mobile app.
    * Worked on refactoring the existing solution architecture from MVVM to BLoc to make it more efficient and functional.
@@ -35,11 +35,11 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
       * Add to wardrobe screens.
       * CostumeSelect screen.
    * Set up Github actions to autendpointsCostumeSelect apk.
-   * Worked on writing end points for the REST API, freezed models, VelocityX.
+   * Worked on writing end-points for the REST API, freezed models, VelocityX.
    
 1. IntemLabs (MENTZA) (December 2020- October 2021)
 
-   This is a Social media app that allows users to go into an audio room and bookmark special moments.
+   This Social media app allows users to go into an audio room and bookmark special moments.
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3-person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved creating and refactoring multiple screens like, 
@@ -55,7 +55,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    This is a fin-tech company that helps users get loans against mutual funds.
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
-   * Worked on vertically sliced full stack stories which involved, Phoenix server and Flutter mobile app.
+   * Worked on vertically sliced full stack stories involving Phoenix server and Flutter mobile app.
    * Worked on the authentication flow and integrating 3rd party APIs,
       * Karvy(to get mutual funds portfolio details). 
       * Digio (which integrates with DigiLocker to perform KYC).
@@ -70,7 +70,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Worked on creating a simple survey screen and writing tests. 
 
 ## Personal Projects
-1. Tictactoe in flutter:https://github.com/micedreams/tic-tac-toe
+1. Tictactoe in flutter: https://github.com/micedreams/tic-tac-toe
 1. Simple flutter app that does signup and login using Firebase auth: https://github.com/micedreams/authapp 
 1. Flutter minesweeper: https://github.com/micedreams/minesweeper
 1. Flutter Game of Life: https://github.com/micedreams/game_of_life

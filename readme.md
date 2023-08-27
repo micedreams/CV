@@ -10,7 +10,8 @@ Github: github.com/micedreams
 
 Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).
 
-I am familiar with continuous integration, writing endpoints for the REST API, design patterns, and test driven development.
+I am familiar with continuous integration, writing endpoints for the REST API, design patterns, SOLID principles, clean Architecture, and test-driven development, and able to use multiple state management libraries - Bloc, Provider, and MVVM.
+
 
 1. Marketfeed (June 2022- October 2022)
 
@@ -21,7 +22,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Worked on
       * setting up Streamchat and adding chat moderation.
       * adding a weekly survey system, according to designs.
-      * creating a delete account button in the app.
+      * Creating a delete account button in the app.
       * Other miscellaneous UI changes throughout the app. 
 
 1. CodeSplash (CostumeSelect) (November 2021- May 2022)
@@ -45,7 +46,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Worked on front-end stories which involved creating and refactoring multiple screens like, 
       * profile screens(view and edit profile screens)
       * parts of onboarding flow,
-      * home screen, 
+      * Home screen, 
       * parts of the chat and the feed feature, 
       * creating matza screen(scheduling calls) and parts of the call screen,
    * Worked on writing endpoints for the REST API, freezed models, and some widget tests. 

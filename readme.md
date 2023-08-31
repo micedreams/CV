@@ -6,6 +6,8 @@ Phone: +91 9008401895
 
 Github: github.com/micedreams
 
+Portfolio: https://micedreams.github.io/#/ 
+
 ## Profile Summary / Projects
 
 Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).
@@ -76,6 +78,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Worked on creating a simple survey screen and writing tests. 
 
 ## Personal Projects
+1. Portfolio: https://github.com/micedreams/micedreams.github.io
 1. Tictactoe in flutter: https://github.com/micedreams/tic-tac-toe
 1. Simple flutter app that does signup and login using Firebase auth: https://github.com/micedreams/authapp 
 1. Flutter minesweeper: https://github.com/micedreams/minesweeper

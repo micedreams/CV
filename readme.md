@@ -13,9 +13,10 @@ Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, 
 I am familiar with continuous integration, writing endpoints for the REST API, design patterns, SOLID principles, clean Architecture, and test-driven development, and able to use multiple state management libraries - Bloc, Provider, and MVVM.
 
 
-1. Marketfeed (June 2022- October 2022)
+1. Marketfeed (June 2022- October 2022) 
 
    This fin-tech company helps users learn about stocks, investments, and how to increase personal wealth.
+   * Designation: software developer.
    * Technologies used:  Dart, Flutter, Firebase.
    * Worked on front-end stories that involved, Cloud-Firestore and Flutter mobile app.
    * Worked on refactoring the existing solution architecture from MVVM to BLoc to make it more efficient and functional.
@@ -28,6 +29,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
 1. CodeSplash (CostumeSelect) (November 2021- May 2022)
 
    A capsule wardrobe helper app.
+   * Designation: software developer.
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved creating, 
@@ -41,6 +43,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
 1. IntemLabs (MENTZA) (December 2020- October 2021)
 
    This Social media app allows users to go into an audio room and bookmark special moments.
+   * Designation: junior software developer.
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3-person engineering team, Reporting directly to the CTO.
    * Worked on front-end stories which involved creating and refactoring multiple screens like, 
@@ -54,6 +57,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
 1. Arkneo finance (May 2020- October 2020)
 
    This is a fin-tech company that helps users get loans against mutual funds.
+   * Designation: junior software developer.
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Worked on vertically sliced full stack stories involving Phoenix server and Flutter mobile app.
@@ -63,11 +67,12 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
       * Razorpay (to provide loan repayment options).
       
 1. Rotten grapes (Servayer) (September 2019- May 2020)
-   * Here they built apps according to clients' needs.
+   Here they built apps according to clients' needs.
+   * Designation: Software developer intern.
    * I help build a service system.
    * Technologies used: Ruby, Rails, HTML, CSS, Javascript.
    * Worked as part of a 3-person engineering team, Reporting directly to the CTO.
-   * Worked on front-end stories that involved, Rails server and Rails web app.
+   * Worked on front-end stories involving Rails server and web app.
    * Worked on creating a simple survey screen and writing tests. 
 
 ## Personal Projects

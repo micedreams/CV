@@ -23,9 +23,10 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Writing documentation.
    * Worked on
       * Add in the filter page.
-      * Rate this user dialog.
-      * Block user feature 
+      * Rate this user dialog and show all ratings page.
+      * Block user feature. 
       * Comming soon page.
+      * Adding menu items to the chat page.
       * Other miscellaneous UI changes throughout the app. 
 
 

@@ -20,6 +20,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Designation: Flutter developer.
    * Technologies used:  Dart, Flutter, Kotlin, openApi.
    * Worked extensively on creating new and reusable widgets.
+   * Worked on adding API endpoints.
    * Writing documentation.
    * Worked on
       * Add in the filter page.

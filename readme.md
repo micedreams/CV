@@ -21,6 +21,12 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Technologies used:  Dart, Flutter, Kotlin, openApi.
    * Worked extensively on creating new and reusable widgets.
    * Writing documentation.
+   * Worked on
+      * Add in the filter page.
+      * Rate this user dialog.
+      * Block user feature 
+      * Comming soon page.
+      * Other miscellaneous UI changes throughout the app. 
 
 
 1. Marketfeed (June 2022- October 2022) 

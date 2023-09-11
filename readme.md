@@ -12,7 +12,7 @@ Hands-on Experience: 4 years.
 
 ## Profile Summary / Projects
 
-Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, REST, JSON, Git(version control).
+Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, Kotlin, REST, JSON, Git(version control).
 
 I am familiar with continuous integration, writing endpoints for the REST API, design patterns, SOLID principles, clean Architecture, and test-driven development, and able to use multiple state management libraries - Bloc, Provider, and MVVM.
 

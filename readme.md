@@ -25,13 +25,10 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Worked on adding API endpoints.
    * Writing documentation.
    * Worked on
-      * Add in the filter page.
+      * Adding the filter page.
       * Rate this user feature.
       * Block user feature. 
-      * Comming soon page.
-      * Add menu items to the chat page.
-      * Other miscellaneous UI changes throughout the app. 
-
+      * Add menu items in the chat page.
 
 1. Marketfeed (June 2022- October 2022) 
 
@@ -44,7 +41,6 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
       * setting up Streamchat and adding chat moderation.
       * adding a weekly survey system, according to designs.
       * Creating a delete account button in the app.
-      * Other miscellaneous UI changes throughout the app. 
 
 1. CodeSplash (CostumeSelect) (November 2021- May 2022)
 

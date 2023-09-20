@@ -10,7 +10,7 @@ Portfolio: https://micedreams.github.io/#/
 
 Hands-on Experience: 4 years.
 
-## Profile Summary / Projects
+## Profile Summary / Experience
 
 Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, Kotlin, REST, JSON, Git(version control).
 

@@ -16,6 +16,14 @@ Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, 
 
 I am familiar with continuous integration, writing endpoints for the REST API, design patterns, SOLID principles, clean Architecture, and test-driven development. I can use multiple state management libraries - Bloc, Provider, and MVVM.
 
+1. Fineswap (February 2022- Present)
+   * Designation: software developer.
+   * Technologies used: Dart, Flutter, Kotlin, Gradle, HTML, CSS(Tailwind).
+   * Collaborate with other senior engineers to improve the quality of the Fineswap app.
+   * Implemented the new workflows and functionalities on the admin panel and the app.
+   * Participated in regular code reviews and provided constructive feedback, contributing to the team's continuous improvement and adherence to best coding practices.
+   * Improved the app performance and efficiency by implementing Flutter’s native widgets
+
 1. Marketfeed (June 2022- October 2022) 
    * Designation: software developer.
    * Technologies used:  Dart, Flutter, Firebase.

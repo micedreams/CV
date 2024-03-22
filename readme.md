@@ -52,7 +52,7 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Played a significant role in implementing front-end stories and creating user-friendly survey screens, I facilitated the collection of valuable user feedback, empowering the business to make informed decisions and drive product improvements. 
 
 ## Personal Projects
-1. Portfolio: https://github.com/micedreams/micedreams.github.io
+1. Set up website using Github actions and Flutter web: https://github.com/micedreams/micedreams.github.io
 2. Set up Github actions to autogenerate CV pdf: https://github.com/micedreams/CV
 1. Tictactoe in flutter: https://github.com/micedreams/tic-tac-toe
 1. Flutter minesweeper: https://github.com/micedreams/minesweeper

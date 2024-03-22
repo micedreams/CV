@@ -35,20 +35,20 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Implemented crucial functionalities like setting up GitHub actions for auto-generating the APK and distribution using Fastlane, writing REST API and GraphQL endpoints, implementing Freezed models, and utilizing VelocityX. 
    
 1. IntemLabs (MENTZA) (December 2020- October 2021)
-   * Designation: junior software developer.
+   * Designation: software developer.
    * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
    * Made contributions that have a tangible business impact by improving user engagement through enhanced profile customization, seamless onboarding experiences, optimized chat and feed functionalities, streamlined call scheduling, and overall improved app usability and reliability.
    * Participated in designing and implementing REST API endpoints, using freezed models, and writing automated tests for widgets. 
    
 1. Arkneo finance (May 2020- October 2020)
-   * Designation: junior software developer.
+   * Designation: software developer.
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Made contributions that had a significant business impact by enhancing user security and trust through a robust authentication process, providing seamless access to important financial information via Karvy integration, streamlining the KYC verification process through Digio integration, and offering convenient loan repayment options through Razorpay.
    * Made improvements that ultimately resulted in improved user experiences, increased user engagement, and enhanced overall app functionality, leading to positive business outcomes.
       
 1. Rotten grapes (Servayer) (September 2019- May 2020)
-   * Designation: Software developer intern.
+   * Designation: junior software developer.
    * Played a significant role in implementing front-end stories and creating user-friendly survey screens, I facilitated the collection of valuable user feedback, empowering the business to make informed decisions and drive product improvements. 
 
 ## Personal Projects

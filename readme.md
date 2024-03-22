@@ -6,7 +6,7 @@ Phone: +91 9008401895
 
 Github: github.com/micedreams
 
-Portfolio: https://micedreams.github.io/#/ 
+website: https://micedreams.github.io/#/ 
 
 ## Profile Summary / Experience
 

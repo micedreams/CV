@@ -6,13 +6,13 @@ Phone: +91 9008401895
 
 Github: github.com/micedreams
 
-website: https://micedreams.github.io/#/ 
+Website: https://micedreams.github.io/#/ 
 
 ## Profile Summary / Experience
 
 Technologies: Flutter, Dart, Firebase, Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, Kotlin, REST, JSON, Git(version control).
 
-I am familiar with continuous integration, writing endpoints for the REST API, design patterns, SOLID principles, clean Architecture, and test-driven development. I can use multiple state management libraries - Bloc, Provider, and MVVM.
+I specialize in Flutter mobile app development, proficient in leveraging state management libraries likeBloc and Provider to build responsive and maintainable applications. Skilled in integrating REST APIs andimplementing robust design patterns, adhering to SOLID principles for scalable app architecture. Expertisein MVVM and Clean Architecture ensures delivery of high-quality software through test-driven developmentand continuous integration practices, resulting in efficient and reliable mobile applications.
 
 1. Fineswap (February 2022- Present)
    * Designation: software developer.
@@ -34,22 +34,25 @@ I am familiar with continuous integration, writing endpoints for the REST API, d
    * Made contributions that resulted in improved user experiences, streamlined app navigation, enhanced wardrobe management, and efficient code generation and maintenance, ultimately driving positive business impact for CostumeSelect.
    * Implemented crucial functionalities like setting up GitHub actions for auto-generating the APK and distribution using Fastlane, writing REST API and GraphQL endpoints, implementing Freezed models, and utilizing VelocityX. 
    
-1. IntemLabs (MENTZA) (December 2020- October 2021)
-   * Designation: software developer.
-   * Technologies used:  Dart, Flutter, Ruby, Rails, HTML, CSS, Javascript.
-   * Made contributions that have a tangible business impact by improving user engagement through enhanced profile customization, seamless onboarding experiences, optimized chat and feed functionalities, streamlined call scheduling, and overall improved app usability and reliability.
-   * Participated in designing and implementing REST API endpoints, using freezed models, and writing automated tests for widgets. 
-   
-1. Arkneo finance (May 2020- October 2020)
+1. IntemLabs (MENTZA) (December 2020 - October 2021)
+   * Role: Software Developer
+   * Technologies Utilized: Dart, Flutter, Ruby on Rails, HTML, CSS, JavaScript
+   * Key Contributions:
+      * Business Impact: Delivered significant contributions that directly influenced business metrics,notably enhancing user engagement. This was achieved through a series of strategic improvements:
+         1. Profile Customization & Onboarding: Refined user profiles and streamlined the onboarding process to create a more personalized and welcoming app experience.
+         1. Chat & Feed Optimization: Overhauled chat and feed functionalities, making them more intuitive and responsive, thus fostering increased user interaction.
+         1. Call Scheduling & App Reliability: Simplified the process for scheduling calls and enhanced the overall app reliability, leading to higher user satisfaction and retention.
+      * Technical Innovations:
+         1. REST API Development: Actively participated in the design and implementation of RESTful API endpoints, facilitating seamless data exchange and integration.
+         1. Advanced Coding Practices: Utilized 'Freezed' models a Flutter plugin for immutable data structures, contributing to more robust and error-free code.
+         1. Quality Assurance: Spearheaded the development of automated widget tests, ensuring high-quality, reliable app components that meet user needs and expectations.
+
+1. Rotten grapes (September 2019- October 2020)
    * Designation: software developer.
    * Technologies used: Elixir, Phoenix, Dart, Flutter, HTML, CSS, Javascript.
    * Worked as part of a 2 person engineering team, Reporting directly to the CTO.
    * Made contributions that had a significant business impact by enhancing user security and trust through a robust authentication process, providing seamless access to important financial information via Karvy integration, streamlining the KYC verification process through Digio integration, and offering convenient loan repayment options through Razorpay.
    * Made improvements that ultimately resulted in improved user experiences, increased user engagement, and enhanced overall app functionality, leading to positive business outcomes.
-      
-1. Rotten grapes (Servayer) (September 2019- May 2020)
-   * Designation: junior software developer.
-   * Played a significant role in implementing front-end stories and creating user-friendly survey screens, I facilitated the collection of valuable user feedback, empowering the business to make informed decisions and drive product improvements. 
 
 ## Personal Projects
 1. Set up website using Github actions and Flutter web: https://github.com/micedreams/micedreams.github.io

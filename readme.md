@@ -59,7 +59,7 @@ Website: https://micedreams.github.io/#/
 1. Set up website using  Flutter web and Github actions: https://github.com/micedreams/micedreams.github.io
 2. Set up Github actions to autogenerate CV pdf: https://github.com/micedreams/CV
 1. Tictactoe in flutter: https://github.com/micedreams/tic-tac-toe
-1. Flutter minesweeper: https://github.com/micedreams/minesweeper
+1. Weather app using futter: https://github.com/micedreams/weather
 1. Flutter Game of Life: https://github.com/micedreams/game_of_life
 
 ## Academic Qualification

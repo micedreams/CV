@@ -10,14 +10,14 @@ Website: https://micedreams.github.io/#/
 
 ## Skills
 
-Languages & Frameworks - Dart (Expert), Flutter (incl. BLoC, Provider, Clean Architecture & TDD)
-APIs & Databases - REST, GraphQL, SQLite, Shared Preferences, Firebase Realtime Database
-Version Control & CI/CD - Git/Bitbucket, Github Actions
-Project Management - Scrum, Jira
-Testing - TDD, Unit testing, Widget testing, Integration testing
-Analytics & Performance Monitoring - Google Analytics, Firebase Crashlytics
-Other Languages -Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, Kotlin
-Teamwork & Leadership - Excellent communication, collaboration, and mentoring skills
+* Languages & Frameworks - Dart (Expert), Flutter (incl. BLoC, Provider, Clean Architecture & TDD)
+* APIs & Databases - REST, GraphQL, SQLite, Shared Preferences, Firebase Realtime Database
+* Version Control & CI/CD - Git/Bitbucket, Github Actions
+* Project Management - Scrum, Jira
+* Testing - TDD, Unit testing, Widget testing, Integration testing
+* Analytics & Performance Monitoring - Google Analytics, Firebase Crashlytics
+* Other Languages -Ruby, Rails, Elixir, Phoenix, HTML, CSS, Javascript, Kotlin
+* Teamwork & Leadership - Excellent communication, collaboration, and mentoring skills
 
 
 ## Experience

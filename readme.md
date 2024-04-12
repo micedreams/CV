@@ -25,15 +25,17 @@ Website: https://micedreams.github.io/#/
 1. Fineswap (February 2022- Present)
    * Designation: software developer.
    * Technologies used: Dart, Flutter, Kotlin, Gradle, HTML, CSS(Tailwind).
-   * Collaborate with other senior engineers to improve the quality of the Fineswap app.
-   * Implemented the new workflows and functionalities on the admin panel and the app.
-   * Participated in regular code reviews and provided constructive feedback, contributing to the team's continuous improvement and adherence to best coding practices.
-   * Improved the app performance and efficiency by implementing Flutter’s native widgets
+   * Led the development of a comprehensive e-commerce application using Flutter for both iOS and Android platforms, from initial design conceptualization to successful production deployment. Play Store & App Store
+   * Architected and implemented a scalable, testable, and maintainable codebase using clean code architecture.
+   * Mentored junior developers and fostered a collaborative team environment, boosting team productivity by 30%.
+   * Optimized app performance using Flutter DevTools and achieved a 20% reduction in loading times.
+   * Conducted comprehensive code reviews and implemented quality assurance measures to uphold coding standards, enhance code maintainability, and ensure testability.
 
 1. Marketfeed (June 2022- October 2022) 
    * Designation: software developer.
    * Technologies used:  Dart, Flutter, Firebase.
    * Built features to enhance user engagement, facilitate efficient communication, gather valuable user feedback, improve user account management, and deliver an enhanced user experience.
+   * Integrated third-party tools such as Google Analytics, and Crashlytics for analytics and performance monitoring.
    * Worked on refactoring the existing application architecture from MVVM to BLoc to make it more efficient and functional.
 
 1. CodeSplash (CostumeSelect) (November 2021- May 2022)

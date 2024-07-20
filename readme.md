@@ -10,7 +10,7 @@ Website: https://micedreams.github.io/#/
 
 ## Skills
 
-* Languages & Frameworks - Dart (Expert), Flutter (incl. BLoC, Provider, Clean Architecture & TDD)
+* Languages & Frameworks - Dart (Expert), Flutter (incl. BLoC, Provider, Riverpod, Clean Architecture & TDD)
 * APIs & Databases - REST, GraphQL, SQLite, Shared Preferences, Firebase Realtime Database
 * Version Control & CI/CD - Git/Bitbucket, Github Actions
 * Project Management - Scrum, Jira
@@ -23,7 +23,7 @@ Website: https://micedreams.github.io/#/
 ## Experience
 1. Voicene (May 2024- Present)
    * Designation: Senior software developer.
-   * Technologies used: Dart, Flutter, Kotlin, Gradle, HTML, CSS(Tailwind).
+   * Technologies used: Dart, Flutter.
    * Led the development of a social media application using Flutter for both iOS and Android platforms, from initial design conceptualization to successful production deployment. Play Store & App Store.
    * Architected and implemented a scalable, testable, and maintainable codebase using Riverpod state management and clean code architecture.
    * Worked on UI and integrated third-party tools such as agora_rtc_engine, agora chat SDK, and firebase_messaging for live streaming, chat, and push notifications.

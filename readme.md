@@ -28,7 +28,7 @@ Website: https://micedreams.github.io/#/
    * Architected and implemented a scalable, testable, and maintainable codebase using Riverpod state management and clean code architecture.
    * Worked on UI and integrated third-party tools such as agora_rtc_engine, agora chat SDK, and firebase_messaging for live streaming, chat, and push notifications.
 
-1. Fineswap (February 2022- Present)
+1. Fineswap (February 2022- February 2024)
    * Designation: Software developer.
    * Technologies used: Dart, Flutter, Kotlin, Gradle, HTML, CSS(Tailwind).
    * Led the development of a comprehensive e-commerce application using Flutter for both iOS and Android platforms, from initial design conceptualization to successful production deployment. Play Store & App Store

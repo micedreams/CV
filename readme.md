@@ -21,7 +21,7 @@ Website: https://micedreams.github.io/#/
 
 
 ## Experience
-1. Voicene (February 2022- Present)
+1. Voicene (May 2024- Present)
    * Designation: Senior software developer.
    * Technologies used: Dart, Flutter, Kotlin, Gradle, HTML, CSS(Tailwind).
    * Led the development of a social media application using Flutter for both iOS and Android platforms, from initial design conceptualization to successful production deployment. Play Store & App Store.
